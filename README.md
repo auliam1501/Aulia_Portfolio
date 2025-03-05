@@ -12,6 +12,7 @@ Hai, I'm Aulia, a statistician that love working with data.
 Bachelor of Statistics (_2013_)
 
 ## Work Experience
+
 #### Operation Excellence - Manufacturing Data Analyst @PT Suntory Garuda Beverage (Suntory Group and Garuda Beverage Group) (_Jan 2018 - Feb 2025_)
 - Create, develop, and analyze cost reduction programs, and manage and monitor their implementation to achieve efficiency and cost-effectiveness.
 - Consolidate and analyze operational data from all departments in the Business Unit related to providing valid data as a consideration for future improvement programs and identifying areas that need improvement. ● Conduct checks and verifications to other departments related to issues and/or data provided to validate the truth and suitability of the data with actual conditions.
@@ -32,6 +33,7 @@ Bachelor of Statistics (_2013_)
 - Analyze the client’s project data and give some conclusion/recommendation of the analysis results, which have completed 15-25 projects/month.
 
 ## Project
+
 #### Bacardi Market and Sales Analysis 
 [Link Project](https://drive.google.com/file/d/1vuw8tLRFE0mc5wxTk31NUGxYco3_HWNE/view?usp=drive_link)
 
